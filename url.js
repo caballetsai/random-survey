@@ -9,5 +9,5 @@
 
 const urls = [
 	'https://www.surveycake.com/s/rGbn0',
-	'https://www.surveycake.com/s/4eaB6,
+	'https://www.surveycake.com/s/4eaB6',
 ];
